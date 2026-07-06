@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "critical_re_design",
+      "maintainer": "Critical Re-Design",
+      "websiteURL": "https://github.com/simtind?tab=repositories",
+      "help": {
+        "online": "https://github.com/simtind?tab=repositories"
+      },
+      "email": "no",
+      "platforms": [
+        {
+          "name": "Critical Re-Design SAMD boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "FIXME",
+          "archiveFileName": "https://github.com/simtind/CRED-arduino-core/releases/download/v1.0.0/lora_sense_m0-1.0.0.zip",
+          "checksum": "SHA-256:b77c4d3b71a587245411b8e9111d3bb4a5b9f9a8c3252d80f1f5db221bbb7c09",
+          "size": 104192,
+          "boards": [
+            {
+              "name": "CRED Lora Sense M0"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
